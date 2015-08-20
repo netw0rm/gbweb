@@ -1,0 +1,13 @@
+# REVEL
+test-results/
+tmp/
+routes/
+
+# NODE MOD
+node_modules
+
+# BOWER
+public/lib
+
+# EXE
+*.exe
